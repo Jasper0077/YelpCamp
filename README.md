@@ -1,6 +1,6 @@
 # Yelp Camp
 
-This is a demo project hosted on Heroku.
+This is a demo project hosted on Heroku. A full-stack CRUD web application in Node.js environment.
 
 ## Website URL
 
